@@ -15,3 +15,5 @@ To use this program follow these steps:
 11. Test the model by drawing a number in the black canvas and press "Recognize Image".
 
 Currently, this application only works for training a model with 10 categories.
+
+This project uses wxWidgets to render its interface. To compile, you may need to download the wxWidgets library.
