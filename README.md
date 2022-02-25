@@ -1,4 +1,7 @@
 # HandwrittenDigitRecognition
+
+See a quick preview of this project on my YouTube channel: https://www.youtube.com/watch?v=iT7k63vnVzo&t
+
 This is a machine learning application which can learn to recognize handwritten numbers from 0 to 9.
 
 
